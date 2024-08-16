@@ -5,49 +5,49 @@ let products = {
       productName: "Regular white T-shirt",
       Category: "Topwear",
       Price: "300",
-      Image: "photo/regular white shirt.webp",
+      Image: "regular white shirt.webp",
     },
     {
       productName: "Beige short skirt",
       Category: "Bottomwear",
       Price: "400",
-      Image: "photo/BEIGE SHORT SKIRT.webp",
+      Image: "BEIGE SHORT SKIRT.webp",
     },
     {
       productName: "Sporty Smartwtach",
       Category: "Watch",
       Price: "4500",
-      Image: "photo/sporty smartwatch.webp",
+      Image: "sporty smartwatch.webp",
     },
     {
       productName: "Basic Knitted Top",
       Category: "Topwear",
       Price: "705",
-      Image: "photo/basic top.webp",
+      Image: "basic top.webp",
     },
     {
       productName: "Black Lether Jacket",
       Category: "Jacket",
       Price: "45  00",
-      Image: "photo/black lather jocket.jpg",
+      Image: "black lather jocket.jpg",
     },
     {
       productName: "Stylish Pink Touser",
       Category: "Buttomwear",
       Price: "5600",
-      Image: "photo/stylish pink touser.webp",
+      Image: "stylish pink touser.webp",
     },
     {
       productName: "Brown Men's Jacket",
       Category: "Jacket",
       Price: "8200",
-      Image: "photo/brown Jacket.jpg",
+      Image: "brown Jacket.jpg",
     },
     {
       productName: "Comfy gray pant",
       Category: "Bottomwear",
       Price: "3200",
-      Image: "photo/gray pent.jpg",
+      Image: "gray pent.jpg",
     },
     {
       productName:
@@ -55,7 +55,7 @@ let products = {
       Category: "Topwear",
       Price: "580",
       Image:
-        "photo/Amazon Brand - Symbol Men's Cotton Rich Striped Polo T Shirt.jpg",
+        "Amazon Brand - Symbol Men's Cotton Rich Striped Polo T Shirt.jpg",
     },
     {
       productName:
@@ -63,13 +63,13 @@ let products = {
       Category: "Topwear",
       Price: "850",
       Image:
-        "photo/Amazon Brand - Symbol Women's Cotton Stretch Half Sleeve Round Neck Regular Fit T-Shirt (Pack of 2).jpg",
+        "Amazon Brand - Symbol Women's Cotton Stretch Half Sleeve Round Neck Regular Fit T-Shirt (Pack of 2).jpg",
     },
     {
       productName: "Men's Cotton Solid V-Neck Regular Fit T-Shirt",
       Category: "Topwear",
       Price: "480",
-      Image: "photo/Men's Cotton Solid V-Neck Regular Fit T-Shirt.jpg",
+      Image: "Men's Cotton Solid V-Neck Regular Fit T-Shirt.jpg",
     },
     {
       productName:
@@ -77,7 +77,7 @@ let products = {
       Category: "Bottomwear",
       Price: "2350",
       Image:
-        "photo/BAMBOO COOL Men's Pajama bottoms Lounge Sleep Shorts Soft Comfortable Breathable Pajamas Shorts with Pockets 2 Pack.jpg",
+        "BAMBOO COOL Men's Pajama bottoms Lounge Sleep Shorts Soft Comfortable Breathable Pajamas Shorts with Pockets 2 Pack.jpg",
     },
     {
       productName:
@@ -85,7 +85,7 @@ let products = {
       Category: "Bottomwear",
       Price: "6530",
       Image:
-        "photo/Infinity Men's Scrub Pants Modern Fit 6 Pockets Tapered Leg with Drawstring CK200A.jpg",
+        "Infinity Men's Scrub Pants Modern Fit 6 Pockets Tapered Leg with Drawstring CK200A.jpg",
     },
     {
       productName:
@@ -93,13 +93,13 @@ let products = {
       Category: "Bottomwear",
       Price: "2350",
       Image:
-        "photo/SWOMOG Couple Matching Pajamas Sets Button Down Silk Pjs Short Sleeve Soft Lounge Sets 2 Pcs Loungewear.jpg",
+        "SWOMOG Couple Matching Pajamas Sets Button Down Silk Pjs Short Sleeve Soft Lounge Sets 2 Pcs Loungewear.jpg",
     },
     {
       productName: "SWOMOG Couple Matching Pajamas",
       Category: "Bottomwear",
       Price: "530",
-      Image: "photo/SWOMOG Couple Matching Pajamas.jpg",
+      Image: "SWOMOG Couple Matching Pajamas.jpg",
     },
     {
       productName:
@@ -107,7 +107,7 @@ let products = {
       Category: "Jacket",
       Price: "800",
       Image:
-        "photo/Amazon Brand - Symbol Men Polyester Packable Traveller Standard Length Jacket.jpg",
+        "Amazon Brand - Symbol Men Polyester Packable Traveller Standard Length Jacket.jpg",
     },
     {
       productName:
@@ -115,7 +115,7 @@ let products = {
       Category: "Jacket",
       Price: "320",
       Image:
-        "photo/Amazon Brand - Symbol Men Polyester Reversible Standard Length Jacket.jpg",
+        "Amazon Brand - Symbol Men Polyester Reversible Standard Length Jacket.jpg",
     },
     {
       productName:
@@ -123,7 +123,7 @@ let products = {
       Category: "Jacket",
       Price: "2350",
       Image:
-        "photo/Amazon Brand - Symbol Mens Polyester Midweight Biker Zip Through Short Length Jacket With Band Collar.jpg",
+        "Amazon Brand - Symbol Mens Polyester Midweight Biker Zip Through Short Length Jacket With Band Collar.jpg",
     },
     {
       productName:
@@ -131,7 +131,7 @@ let products = {
       Category: "Jacket",
       Price: "4210",
       Image:
-        "photo/Amazon Brand - Symbol Polyester Men Windbreaker Standard Length Jacket.jpg",
+        "Amazon Brand - Symbol Polyester Men Windbreaker Standard Length Jacket.jpg",
     },
     {
       productName:
@@ -139,7 +139,7 @@ let products = {
       Category: "Watch",
       Price: "5420",
       Image:
-        "photo/Citizen Analog Black Dial Men's Watch-BI5017-50E Stainless Steel, Black Strap.jpg",
+        "Citizen Analog Black Dial Men's Watch-BI5017-50E Stainless Steel, Black Strap.jpg",
     },
     {
       productName:
@@ -147,7 +147,7 @@ let products = {
       Category: "Watch",
       Price: "5045",
       Image:
-        "photo/Citizen Promaster Dive Eco-Drive Watch, 3-Hand Date, ISO Certified, Luminous Hands and Markers, Rotating Bezel.jpg",
+        "Citizen Promaster Dive Eco-Drive Watch, 3-Hand Date, ISO Certified, Luminous Hands and Markers, Rotating Bezel.jpg",
     },
   ],
 };
